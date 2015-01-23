@@ -33,4 +33,6 @@ while len(guessed_nums) < allowed_guesses:
 
 if not rand_num in guessed_nums:
 	print("Sorry! My number was {}.".format(rand_num))
+
+
 	
